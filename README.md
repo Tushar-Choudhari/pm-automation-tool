@@ -51,15 +51,15 @@ Each generated PRD includes:
    streamlit run app.py
 
 
-##🔒 Security & Privacy
+## 🔒 Security & Privacy
 
 * **Direct API Connection:** No data is stored on any intermediary servers.
 * **Encrypted Input:** API keys are handled as password-type inputs and never logged.
-Session Based: Product details exist only for the duration of your browser session.
+* **Session Based:** Product details exist only for the duration of your browser session.
 
-👤 Author
+## 👤 Author
 Tushar Choudhari
 
-GitHub: @Tushar-Choudhari
+* **GitHub:** @Tushar-Choudhari
 
-LinkedIn: [Your-LinkedIn-URL-Here]
+* **LinkedIn:** [Your-LinkedIn-URL-Here]
