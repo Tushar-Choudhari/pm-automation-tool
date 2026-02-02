@@ -50,7 +50,6 @@ Each generated PRD includes:
    ```bash
    streamlit run app.py
 
-
 ## 🔒 Security & Privacy
 
 * **Direct API Connection:** No data is stored on any intermediary servers.
