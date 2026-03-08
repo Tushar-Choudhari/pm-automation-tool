@@ -61,4 +61,4 @@ Tushar Choudhari
 
 * **GitHub:** @Tushar-Choudhari
 
-* **LinkedIn:** [Your-LinkedIn-URL-Here]
+* **LinkedIn:** https://www.linkedin.com/in/-tusharchoudhari/
